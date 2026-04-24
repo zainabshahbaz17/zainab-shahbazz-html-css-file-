@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #c7d6e2;
+    font-family: "Times New Roman";
+    padding: 20px;
+
+    max-width: 700px;
+    margin: auto;
+}
+
+#heading {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+.highlight {
+    color: purple;
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid black;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+ol {
+    padding-left: 20px;
+}
